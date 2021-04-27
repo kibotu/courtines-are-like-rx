@@ -1,7 +1,7 @@
 
 # Coroutines are like Java
 
-Page: https://github.com/kibotu/courtines-are-like-rx
+Page: https://kibotu.github.io/courtines-are-like-rx/
 
 Inspired by [swift-is-like-kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
 
