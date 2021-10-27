@@ -1,7 +1,7 @@
 
 # Coroutines are like Java
 
-Page: https://kibotu.github.io/courtines-are-like-rx/
+Github Page: https://kibotu.github.io/courtines-are-like-rx/
 
 Inspired by [swift-is-like-kotlin](http://nilhcem.github.io/swift-is-like-kotlin/)
 
@@ -12,8 +12,8 @@ yarn
 yarn build
 ```
 
-HTML is generated from `cirru/index.cirru`.
-Read that file and you would know what's happening.
+HTML is generated from [index.cirru](index.cirru).
+Read that file, and you would know what's happening.
 
 ### License
 <pre>
